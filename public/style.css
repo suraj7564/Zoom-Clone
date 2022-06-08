@@ -1,0 +1,13 @@
+#video-grid{
+    display: flex;
+    justify-content: center;
+}
+
+video {
+    padding: 1px;
+    border: 10px ridge rebeccapurple;
+    border-radius: 1em;
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+}
